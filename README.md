@@ -1,4 +1,4 @@
-# Lars Goozen
+# Lars
 
 Software and hardware projects spanning processor design, low-level programming, algorithms, machine learning and electronics.
 
